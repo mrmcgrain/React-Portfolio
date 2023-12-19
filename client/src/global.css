@@ -1,0 +1,27 @@
+body {
+    background-color: #E5E5E5;
+    ;
+}
+
+.flex {
+    display: flex;
+}
+
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-col {
+    flex-direction: column;
+}
+
+.f-row {
+    flex-direction: row;
+}
+
+.border {
+    border: solid red 1px;
+}
