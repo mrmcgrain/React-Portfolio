@@ -35,3 +35,17 @@ line-height: 5px;
     width: 20px;
     height: 20px;
 }
+
+
+#NavCard {
+    background-color: white;
+    width: 20rem;
+    height: 275px;
+    padding: 1rem;
+    /* padding-right: 1rem; */
+    /* margin-left: 200px; */
+}
+
+.navcontent {
+    margin-bottom: 2.3rem;
+}
