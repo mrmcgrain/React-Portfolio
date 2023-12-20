@@ -26,7 +26,7 @@ function Nav() {
             <br />
 
             <div id="ContactCard">
-                <div id="ContactCardContent" 
+                <div id="ContactCardContent"
                 // className='border'
                 >
 
@@ -84,11 +84,48 @@ function Nav() {
 
                     <div id="spacer" style={{ height: "60px" }}></div>
 
-                    <div style={{textAlign: "center"}} > &lt; send a message /&gt;</div>
+                    <div style={{ textAlign: "center" }} > &lt; send a message /&gt;</div>
 
                 </div>
 
+            </div>
 
+
+            <br />
+            <br />
+            <br />
+            <br />
+
+
+            <div id="NavCard">
+
+                <div className='navcontent'>
+                    <p>About</p>
+                </div>
+
+                <div className='navcontent'>
+                    <p>Projects</p>
+                </div>
+
+                <div className='navcontent'>
+                    <p>Skills</p>
+                </div>
+
+                <div className='navcontent'>
+                    <p>React Algorithms</p>
+                </div>
+
+                <div className='navcontent'>
+                <p>JavaScript Algorithms</p>
+                </div>
+
+                <div className='navcontent'>
+                    <p>Testimonials</p>
+                </div>
+
+                <div className='navcontent'>
+                    <p>Connect</p>
+                </div>
 
 
 
