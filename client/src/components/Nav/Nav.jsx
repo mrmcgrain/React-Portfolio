@@ -1,10 +1,12 @@
+
 import './nav.css'
 import email from "./assests/email.png"
 import github from "./assests/github.png"
 import linkedin from "./assests/linkedin.png"
 import resume from "./assests/resume.png"
 
-import { Link } from 'react-router'
+import { Link } from 'react-router-dom'
+import About from "../About"
 
 function Nav() {
 
@@ -100,31 +102,35 @@ function Nav() {
             <div id="NavCard">
 
                 <div className='navcontent'>
-                    <p>About</p>
+                <Link to="About">About</Link>
                 </div>
 
                 <div className='navcontent'>
-                    <p>Projects</p>
+                <Link to="Projects">Projects</Link>
+
                 </div>
 
                 <div className='navcontent'>
-                    <p>Skills</p>
+                <Link to="Skills">Skills</Link>
+
                 </div>
 
                 <div className='navcontent'>
-                    <p>React Algorithms</p>
+                <Link to="ReactAlgo">React Algorithms</Link>
+
                 </div>
 
                 <div className='navcontent'>
-                <p>JavaScript Algorithms</p>
+                <Link to="JSAlgo">JavaScript Algorithms</Link>
+
                 </div>
 
                 <div className='navcontent'>
-                    <p>Testimonials</p>
+                <Link to="Testimonials">Testimonials</Link>
                 </div>
 
                 <div className='navcontent'>
-                    <p>Connect</p>
+                <Link to="Connect">Connect</Link>
                 </div>
 
 
