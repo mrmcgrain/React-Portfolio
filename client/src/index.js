@@ -19,15 +19,17 @@ root.render(
     <BrowserRouter>
       <Routes>
 
-        <Route path="/" element={<App />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/connect" element={<Connect />} />
-        <Route path="/JSAlgo" element={<JSAlgo />} />
-        <Route path="/Projects" element={<Projects />} />
-        <Route path="/ReactAlgo" element={<ReactAlgo />} />
-        <Route path="/Skills" element={<Skills />} />
-        <Route path="/Testimonials" element={<Testimonials />} />
+        <Route path="/" element={<App />} >
+          
+          <Route path="/about" element={<About />} />
+          <Route path="/connect" element={<Connect />} />
+          <Route path="/JSAlgo" element={<JSAlgo />} />
+          <Route path="/Projects" element={<Projects />} />
+          <Route path="/ReactAlgo" element={<ReactAlgo />} />
+          <Route path="/Skills" element={<Skills />} />
+          <Route path="/Testimonials" element={<Testimonials />} />
 
+        </Route>
 
       </Routes>
       {/* <App /> */}
