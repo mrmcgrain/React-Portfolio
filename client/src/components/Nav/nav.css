@@ -2,9 +2,14 @@
 line-height: 5px;
 }
 
+#Nav {
+    width: 100%;
+    justify-content: space-evenly;
+}
+
 #Name {
     background-color: white;
-    width: 20rem;
+    /* width: 20rem; */
     padding: 1rem;
 
     /* margin-left: 200px; */
@@ -13,7 +18,7 @@ line-height: 5px;
 
 #ContactCard {
     background-color: white;
-    width: 20rem;
+    /* width: 20rem; */
     height: 260px;
     padding: 1rem;
     /* padding-right: 1rem; */
@@ -39,13 +44,16 @@ line-height: 5px;
 
 #NavCard {
     background-color: white;
-    width: 20rem;
-    height: 275px;
+    /* width: 20rem; */
+    height: 10px;
     padding: 1rem;
+    justify-content: space-evenly;
+    display: flex;
+    /* flex-direction: column; */
     /* padding-right: 1rem; */
     /* margin-left: 200px; */
 }
 
 .navcontent {
-    margin-bottom: 2.3rem;
+    /* margin-bottom: 2.3rem; */
 }
