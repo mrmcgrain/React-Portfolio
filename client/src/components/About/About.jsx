@@ -5,7 +5,19 @@ function About() {
 
             <h3 className="label">About</h3>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, autem doloremque necessitatibus voluptatum expedita vitae perspiciatis ea vero sit quasi explicabo iure nostrum deserunt officiis in laborum minus obcaecati quibusdam nesciunt laboriosam cumque voluptatibus quis dignissimos est! Maxime unde facilis officia voluptas adipisci dolorem, voluptates tenetur delectus obcaecati sed perspiciatis autem reprehenderit pariatur! Nulla odio deserunt exercitationem unde ex ullam quaerat reprehenderit dolore aspernatur! Quidem laborum architecto explicabo provident esse, aperiam deserunt nulla consequuntur accusamus expedita eaque exercitationem commodi! Veniam dolorem eum aspernatur alias possimus consectetur vitae, deserunt, nam ipsum deleniti enim architecto voluptatibus aut ab, perspiciatis laudantium. Sunt repellat accusamus eos fugit, libero molestias minima ut minus non assumenda voluptas vero aut cupiditate ab nobis pariatur dignissimos temporibus reprehenderit ea! Distinctio enim odit sit molestiae aspernatur. Corrupti ullam, fugiat minus pariatur eligendi delectus inventore reprehenderit dicta placeat repellat velit recusandae eius maiores. Eius provident nostrum nihil fuga harum earum sequi incidunt, quibusdam corporis consequuntur, natus iusto voluptates, excepturi accusamus nemo consectetur est ex dolorum asperiores nobis maiores. Repellendus, similique sapiente, nemo soluta, maxime facere commodi repellat eum temporibus earum possimus optio tempora. Earum eligendi tenetur maxime exercitationem iusto vel ea, magnam ratione dolorem aliquid aliquam, nihil voluptate eveniet a.</p>
+<div>
+
+<p>I'm on a journey. Pursing greatness and fulfillment through the artistry of code.</p>
+<p>In a recently completed, year long boot-camp with a company I adore "Persevere Now",</p>
+<p>not only have I found my calling and my passion - I have also found a burning need to be </p>
+<p>to be of service to my fellow human-kind who have battled their ways through the justice</p>
+<p>system. We are on a combined mission with some amazing organizations to "End Recidivism"</p>
+<p>and show the world what we are really capable of... when only given the chance to do so!</p>
+<br />
+<p><strong> Complex logic, functionality and Algorithms are my church...JavaScript my drug of choice!</strong> </p>
+<p>Let's find the solution to whatever ails your project together! </p>
+<p>Be part of the change that will help heal the world.. </p>
+</div>
         </div>
 
     );
