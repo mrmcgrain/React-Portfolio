@@ -1,8 +1,8 @@
 import Nav from "./components/Nav/Nav"
 import "./global.css"
 import { Outlet, useOutlet } from 'react-router'
-import About from "./components/About"
-import './components/CSS/App.css'
+import About from "./components/About/About"
+import './App.css'
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header"></header>
-
+      About
       <body>
         <div id="mainContainer" style={{ width: '100%', height: '100%' }} className="flex f-col">
 

@@ -6,7 +6,7 @@ import linkedin from "./assests/linkedin.png"
 import resume from "./assests/resume.png"
 
 import { Link } from 'react-router-dom'
-import About from "../About"
+// import About from "../About"
 
 function Nav() {
 
