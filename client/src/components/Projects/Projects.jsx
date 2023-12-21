@@ -4,7 +4,7 @@ function Projects() {
 
     return (
         <div id="Projects">
-            <h3>Projects</h3>
+            <h3 className='label'> Projects</h3>
 
             <div class="grid-container">
                 <div class="grid-item">

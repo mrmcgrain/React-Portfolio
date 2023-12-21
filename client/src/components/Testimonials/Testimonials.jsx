@@ -2,7 +2,8 @@ function Testimonials() {
 
     return (
         <div id="Testimonials">
-            Testimonials
+                        <h3 className="label">Testimonials</h3>
+
         </div>
 
     );
