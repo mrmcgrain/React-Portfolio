@@ -2,7 +2,9 @@ function JSAlgo() {
 
     return (
         <div id="JSAlgo">
-            JSAlgo
+            <h3 className="label">
+                JSAlgo
+            </h3>
         </div>
 
     );
