@@ -4,13 +4,13 @@ import App from "./App";
 import { Routes, Route } from "react-router";
 import { BrowserRouter } from "react-router-dom";
 
-import About from "./components/About"
-import Connect from "./components/Connect"
-import JSAlgo from "./components/JSAlgo"
-import Projects from "./components/Projects"
-import ReactAlgo from "./components/ReactAlgo"
-import Skills from "./components/Skills"
-import Testimonials from "./components/Testimonials"
+import About from "./components/About/About"
+import Connect from "./components/Connect/Connect"
+import JSAlgo from "./components/JSAlgo/JSAlgo"
+import Projects from "./components/Projects/Projects"
+import ReactAlgo from "./components/ReactAlgo/ReactAlgo"
+import Skills from "./components/Skills/Skills"
+import Testimonials from "./components/Testimonials/Testimonials"
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));

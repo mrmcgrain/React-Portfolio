@@ -2,7 +2,12 @@ body {
     background-color: #E5E5E5;
     ;
 }
-
+.label {
+    background-color: white;
+    width: fit-content;
+    padding: 4px;
+    border-radius: 20px;
+}
 
 
 .flex {

@@ -1,16 +1,18 @@
-import "./CSS/Skills.css"
-import socket from "./assests/icons/socket.png"
-import bcrypt from './assests/icons/bcrypr.jpeg'
-import code from './assests/icons/code2.png'
-import express from './assests/icons/express.png'
-import gsuite from './assests/icons/g-suite.png'
-import html from './assests/icons/html.png'
-import JWT from './assests/icons/JWT.png'
-import mongoDB from './assests/icons/mongoDB.png'
-import node from './assests/icons/nodejs.png'
-import scrum from './assests/icons/scrum.png'
-import react from './assests/icons/react.png'
-import JS from './assests/icons/java-script.png'
+import "./Skills.css"
+import socket from "../assests/icons/socket.png"
+import bcrypt from '../assests/icons/bcrypr.jpeg'
+import code from '../assests/icons/code2.png'
+import express from '../assests/icons/express.png'
+import gsuite from '../assests/icons/g-suite.png'
+import html from '../assests/icons/html.png'
+import JWT from '../assests/icons/JWT.png'
+import mongoDB from '../assests/icons/mongoDB.png'
+import node from '../assests/icons/nodejs.png'
+import scrum from '../assests/icons/scrum.png'
+import react from '../assests/icons/react.png'
+import JS from '../assests/icons/java-script.png'
+
+import skills from "../assests/Skills.png"
 
 <div
 class="grid-item-skill"
@@ -21,7 +23,7 @@ function Skills() {
 
     return (
         <div id="Skills">
-            <h3>Skills</h3>
+            <h3 className="label">Skills</h3>
             {/* {console.log("WTF", scrum)} */}
             <div class="grid-container-skill">
             
@@ -90,9 +92,13 @@ function Skills() {
 
 
 
-
-
             </div>
+
+<div
+                    style={{ width: "00px", height: '400px', backgroundImage: `url(${skills})` }}
+
+>
+</div>
         </div>
 
     );
