@@ -9,6 +9,9 @@ function About() {
 
 <p>I'm on a journey. Pursing greatness and fulfillment through the artistry of code.</p>
 <p>In a recently completed, year long boot-camp with a company I adore "Persevere Now",</p>
+
+<h3>LINE ADDED TO intentional create a conflict in Git</h3>
+
 <p>not only have I found my calling and my passion - I have also found a burning need to be </p>
 <p>to be of service to my fellow human-kind who have battled their ways through the justice</p>
 <p>system. We are on a combined mission with some amazing organizations to "End Recidivism"</p>
